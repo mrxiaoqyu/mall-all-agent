@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+asyncpg
+alembic
+pydantic
+pydantic-settings
+python-jose[cryptography]
+bcrypt
+email-validator
+websockets
+langchain
+langchain-openai
+langgraph
+langgraph-checkpoint-postgres
+psycopg[binary,pool]
